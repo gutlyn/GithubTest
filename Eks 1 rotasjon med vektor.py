@@ -17,6 +17,7 @@ rotation_matrix = np.array([
     [np.cos(theta), -np.sin(theta)],
     [np.sin(theta), np.cos(theta)]
 ])
+#gunnar tukler
 
 # print matrix and vector
 print(*['Rotasjonsmatrisen', rotation_matrix], sep="\n")
